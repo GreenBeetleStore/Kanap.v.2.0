@@ -4,6 +4,10 @@
 
   This is the front end and back end server for Project 5 of the Web Developer path.
 
+  <b>Entrez d'abord dans le dossier "back" pour exécuter "node server" = `Listening on port 3000`.
+
+  Deuxièmement, entrez dans le dossier "front" et lancez "Go Live". La page sera affichée à : http://127.0.0.1:5500/ </b>
+
 ### Back end Prerequisites ###
 
    You will need to have Node and `npm` installed locally on your machine.
