@@ -1,11 +1,13 @@
 {
+  "homepage": "https://greenbeetlestore.github.io/P5-Kanap",
   "name": "kanap-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "contact": "node server"
+    "contact": "node server",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
