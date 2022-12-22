@@ -39,7 +39,7 @@ Dans le cadre de cette mission, vous travaillez avec une équipe constituée de 
 
 · Bilal, le développeur back-end qui implémente l’API à laquelle est connecté le front-end.
 
-===========================================================================================
+======================================================================
 
 Corinne vous envoie un e-mail pour vous briefer sur la mission :
 
@@ -65,7 +65,7 @@ Bonne journée,
 
 Corinne
 
-===========================================================================================
+======================================================================
 
 Un peu plus tard, Frank vous envoie un e-mail pour vous apporter quelques précisions complémentaires sur son travail :
 
@@ -91,6 +91,8 @@ Frank
 
 <img src="./front/images/info.png" alt="Bannière d'information">
 <br>
+
+## Aperçu du résultat
 
 <img src="./front/images/Page01.png" alt="Page d'accueil">
 <img src="./front/images/Page02.png" alt="Page produit">
