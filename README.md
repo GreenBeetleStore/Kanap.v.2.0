@@ -17,9 +17,10 @@
   Clone this repo. From the "back" folder of the project, run `npm install`. You can then run the server with `node server`. 
   The server should run on `localhost` with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
 
-=======================================================================================================
+======================================================================
 
 <h1> Construisez un site e-commerce en JavaScript </h1>
+
 https://openclassrooms.com/fr/paths/556/projects/675/assignment
 
 <h2> Étapes clés – Projet 5 du parcours Développeur web </h2>
