@@ -27,9 +27,7 @@ Deuxièmement, entrez dans le dossier "front" et lancez "Go Live". La page sera 
 
 ======================================================================
 
-# P5 - Construisez un site e-commerce en JavaScript
-
-https://openclassrooms.com/fr/paths/556/projects/675/assignment
+# <a href="https://openclassrooms.com/fr/paths/556/projects/675/assignment">P5 - Construisez un site e-commerce en JavaScript</a>
 
 ## Scénario
 
