@@ -2,7 +2,7 @@
 
 <img src="./front/images/logo.png"/>
 
-  This is the front end and back end server for Project 5 of the Web Developer path.
+  Il s'agit du serveur "frontend" et "backend" pour le projet 5 du parcours développeur Web.
 
   <b>Entrez d'abord dans le dossier "back" pour exécuter "node server" = `Listening on port 3000`.
 
