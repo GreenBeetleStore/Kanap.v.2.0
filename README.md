@@ -19,7 +19,7 @@
 
 ======================================================================
 
-<h1> Construisez un site e-commerce en JavaScript </h1>
+# P5 - Construisez un site e-commerce en JavaScript
 
 https://openclassrooms.com/fr/paths/556/projects/675/assignment
 
