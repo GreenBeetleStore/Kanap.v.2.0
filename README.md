@@ -23,6 +23,7 @@
 
 https://openclassrooms.com/fr/paths/556/projects/675/assignment
 
+<<<<<<< HEAD
 <img src="./front/images/Page01.png" alt="Page d'accueil">
 <img src="./front/images/Page02.png" alt="Page produit">
 <img src="./front/images/Page03.png" alt="Page panier">
@@ -31,6 +32,12 @@ https://openclassrooms.com/fr/paths/556/projects/675/assignment
 ======================================================================
 
 # <a href="https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf">Étapes clés – Projet 5 du parcours Développeur web.</a> 
+=======
+
+
+<h2> Étapes clés – Projet 5 du parcours Développeur web </h2>
+https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf
+>>>>>>> 7ff0571a371de703c1a6de25daa486f4b3ad8047
 
   Implémentez un site e-commerce dynamique
 
