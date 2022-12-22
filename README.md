@@ -23,8 +23,14 @@
 
 https://openclassrooms.com/fr/paths/556/projects/675/assignment
 
-<h2> Étapes clés – Projet 5 du parcours Développeur web </h2>
-https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf
+<img src="./front/images/Page01.png" alt="Page d'accueil">
+<img src="./front/images/Page02.png" alt="Page produit">
+<img src="./front/images/Page03.png" alt="Page panier">
+<img src="./front/images/Page04.png" alt="Page confirmation">
+
+======================================================================
+
+# <a href="https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf">Étapes clés – Projet 5 du parcours Développeur web.</a> 
 
   Implémentez un site e-commerce dynamique
 
