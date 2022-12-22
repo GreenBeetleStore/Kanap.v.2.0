@@ -44,8 +44,11 @@ Dans le cadre de cette mission, vous travaillez avec une équipe constituée de 
 Corinne vous envoie un e-mail pour vous briefer sur la mission :
 
 <b>De</b> : Corinne
+
 <b>À</b> : Vous
+
 <b>Objet</b> : Site e-commerce Kanap 
+<br>
 
 Hello !
 
@@ -70,8 +73,11 @@ Corinne
 Un peu plus tard, Frank vous envoie un e-mail pour vous apporter quelques précisions complémentaires sur son travail :
 
 <b>De</b> : Frank
+
 <b>À</b> : Vous
+
 <b>Objet</b> : Maquettes statiques du site de Kanap 
+<br>
 
 Salut,
 
