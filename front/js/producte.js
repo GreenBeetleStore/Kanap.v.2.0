@@ -105,7 +105,7 @@ function finestraConfirmació() {
 
     // Opció per tornar a la pàgina index.
   } else {
-    window.location.href = "./index.html";
+    window.location.href = "../../index.html";
   }
 }
 
