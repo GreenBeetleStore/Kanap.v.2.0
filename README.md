@@ -1,5 +1,7 @@
 # Kanap #
 
+### Visitez le projet réalisé <a href="https://greenbeetlestore.github.io/Kanap.v.2.0/">ici : https://greenbeetlestore.github.io/Kanap.v.2.0/</a>
+
 <img src="./front/images/logo.png"/>
 
 ## Instructions d'installation :
@@ -18,6 +20,10 @@ Deuxièmement, entrez dans le dossier "front" et lancez "Go Live". La page sera 
 
   Clone this repo. From the "back" folder of the project, run `npm install`. You can then run the server with `node server`. 
   The server should run on `localhost` with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
+  
+## Présentation du projet
+
+### Voir la <a href="https://docs.google.com/presentation/d/1imHJc8YmTk-2z4Vg8DOkN4w1LcY8AQgeRVlI90UvjPA/edit?usp=sharing"> Présentation du projet ici 👈 </a>
 
 ======================================================================
 
@@ -128,6 +134,8 @@ Besoin d’indications pour avancer dans votre projet ? Suivez les étapes clés
 
   Vous allez écrire du code JS qui sera découpé en plusieurs fonctions. L’idée n’est pas de commenter chaque ligne de code, mais de commenter les choses de façon plus générale. Pour cela, il est possible de commenter le code, fonction par fonction, grâce à JSDoc. Pour vous aider, lisez l’article <a href="https://buzut.net/bien-commenter-son-code/">Bien commenter son code</a>.
   
+<br><br>
+  
 # Étape 1 : Prendre en main les maquettes HTML / CSS
 5 % d’avancement
 
@@ -146,7 +154,9 @@ Avant de commencer, il est essentiel de prendre connaissance des éléments mis 
 ## ⚠️ Points de vigilance :
 
 ● Attention à bien analyser les pages HTML / CSS fournies. Tout a été prévu pour que vous n’ayez pas à y retoucher, inutile de recréer des éléments déjà conçus.
-    
+
+<br><br>
+
 # Étape 2 : Manipuler l’API 
 10 % d’avancement
   
@@ -165,6 +175,8 @@ Avant d’aller plus loin, il est essentiel de prendre connaissance des autres �
 ## ⚠️ Points de vigilance :
 
 ● Attention à bien lancer l’API avant de vouloir l’utiliser.
+
+<br><br>
 
 # Étape 3 : Insérer les produits dans la page d’accueil
 20 % d’avancement
@@ -192,6 +204,8 @@ Vous pouvez maintenant intégrer l’ensemble des produits de l’API dans la pa
 ● Le chapitre “<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279104-utilisez-la-bonne-boucle-pour-repeter-les-taches-for-while">Utilisez la bonne boucle pour répéter les tâches (for, while)</a>” du cours “<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript">Apprenez à programmer avec JavaScript</a>” devrait vous aider à parcourir la réponse envoyée par l’API.
 
 ● Vous pourrez aussi trouver des informations intéressantes dans le chapitre <a href="https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web/5577491-modifiez-le-dom">Modifiez le DOM</a> du cours “<a href="https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web">Écrivez du JavaScript pour le Web</a>”.
+
+<br><br>
   
 # Étape 4 : Faire le lien entre un produit de la page d’accueil et la page Produit 
 30 % d’avancement
@@ -217,6 +231,8 @@ Avant de penser à la page Produit, il va falloir prévoir ce qu’il faut sur l
 ● Voici un court article mais relativement clair sur URLSearchParams : <a href="https://waytolearnx.com/2019/10/comment-recuperer-les-parametres-durl-en-javascript.html">Comment récupérer les paramètres d’URL en JavaScript</a>.
 
 ● <a href="https://developer.mozilla.org/fr/docs/Web/API/URLSearchParams">La documentation MDN sur URLSearchParams</a>.
+
+<br><br>
   
 # Étape 5 : Récupérer l’id du produit à afficher
 35 % d’avancement
@@ -234,6 +250,8 @@ Avant de pouvoir afficher les détails d’un produit, il va falloir savoir de q
 ## 📃 Ressources :
 
 ● Comme lors de l’étape précédente, l’article sur URLSearchParams vous sera utile : <a href="https://waytolearnx.com/2019/10/comment-recuperer-les-parametres-durl-en-javascript.html">Comment récupérer les paramètres d’URL en JavaScript</a>.
+
+<br><br>
   
 # Étape 6 : Insérer un produit et ses détails dans la page Produit
 45 % d’avancement
@@ -257,6 +275,8 @@ Nous avons maintenant l’id du produit à afficher, ceci permettant de requête
 ## 📃 Ressources :
 
 ● Se référer aux <a href="https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf">spécifications fonctionnelles et techniques</a> du projet pour savoir comment requêter l’API.
+
+<br><br>
   
 # Étape 7 : Ajouter des produits dans le panier 
 55 % d’avancement
@@ -290,6 +310,8 @@ La page Produit est en place, celle-ci affiche les détails d’un produit cliqu
 ## 📃 Ressources :
 
 ● Vous devriez lire <a href="https://tutowebdesign.com/localstorage-javascript.php">cet article sur localStorage</a>. Voici également la documentation MDN à ce sujet : <a href="https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage">Window.localStorage</a>.
+
+<br><br>
   
 # Étape 8 : Afficher un tableau récapitulatif des achats dans la page Panier
 65 % d’avancement
@@ -315,6 +337,8 @@ Les produits sont ajoutés au panier, mais cela reste encore invisible pour l’
 ## 📃 Ressources :
 
 ● À nouveau, le chapitre “<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript/6279104-utilisez-la-bonne-boucle-pour-repeter-les-taches-for-while">Utilisez la bonne boucle pour répéter les tâches (for, while)</a>” du cours “<a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript">Apprenez à programmer avec JavaScript</a>” devrait vous aider.
+
+<br><br>
   
 # Étape 9 : Gérer la modification et la suppression de produits dans la page Panier 
 75 % d’avancement
@@ -346,6 +370,8 @@ Maintenant, il faut permettre à l’utilisateur de modifier la quantité ou de 
 ● Voici <a href="https://www.javascripttutorial.net/javascript-dom/javascript-change-event/">un article</a> parlant de l’utilisation de addEventListener de type change.
 
 ● <a href="https://developer.mozilla.org/fr/docs/Web/API/Element/closest">La documentation MDN de la méthode Element.closest()</a>.
+
+<br><br>
   
 # Étape 10 : Passer la commande 
 85 % d’avancement
@@ -381,6 +407,8 @@ Nous avons presque terminé, l’utilisateur doit pouvoir valider sa commande, c
 ● Pour savoir comment faire une requête POST en JavaScript, lisez <a href="https://fr.javascript.info/fetch#requetes-post">la documentation sur ce sujet</a>.
 
 ● Se référer aux <a href="https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf">spécifications fonctionnelles et techniques</a> du projet pour savoir comment requêter l’API.
+
+<br><br>
   
 # Étape 11 : Afficher le numéro de commande
 90 % d’avancement
@@ -404,6 +432,8 @@ Nous voilà au bout des choses, maintenant que nous pouvons passer commande, il 
 ● Attention à bien vérifier par deux fois la requête attendue par l’API, aucune erreur ne sera tolérée par celle-ci.
 
 ● Attention, si le numéro doit être affiché, celui-ci ne doit pas être conservé / stocké.
+
+<br><br>
   
 # Étape 12 : Mettre en place le plan de test d’acceptation
 100 % d’avancement
@@ -425,10 +455,14 @@ Le site web étant en place, il est maintenant l’heure de mettre en place un p
 ## 📃 Ressources :
 
 ● Vous pouvez trouver de nombreuses documentations concernant les différents tests, et notamment les tests d’acceptation. Voici <a href="https://www2.stardust-testing.com/blog-fr/la-valeur-des-tests-de-validation">un article sur les tests d'acceptations</a>.
+
+<br><br>
   
 # 🎉 Projet terminé !
 
 ======================================================================
+
+<br><br>
 
 # <a href="https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf">MVP – Spécifications fonctionnelles et techniques du site de Kanap</a>
 
@@ -532,16 +566,19 @@ Tous les produits possèdent les attributs suivants :
         Champ : description                 Type : string
         Champ : altTxt                      Type : string
 
-  <h4> Technologies utilisées </h4>
+## Technologies utilisées
 
-    HTML, CSS, JavaScript, Node, GitHub, VS Code, Chrome, Firefox.
+HTML, CSS, JavaScript, Node, GitHub, VS Code, Chrome, Firefox.
 
-  <h4> URL des API </h4>
+## URL des API
 
-    ● Catalogue de canapés : http://localhost:3000/api/products
-    ● ID des produits du catalogue : 	http://localhost:3000/api/products/{id}
-    ● Pour envoyer la commande et recevoir le Nº. de commande : http://localhost:3000/api/products/order
-        La commande envoyé pour l'enregistrer doit être au format JSON suivant :
+● Catalogue de canapés : http://localhost:3000/api/products
+
+● ID des produits du catalogue : 	http://localhost:3000/api/products/{id}
+
+● Pour envoyer la commande et recevoir le Nº. de commande : http://localhost:3000/api/products/order
+
+La commande envoyé pour l'enregistrer doit être au format JSON suivant :
         
           {
             contact{
@@ -554,7 +591,7 @@ Tous les produits possèdent les attributs suivants :
             products: [<string>]
           }
 
-  <h4> Validation des données </h4>
+## Validation des données
   
-    Pour les routes POST, l’objet contact envoyé au serveur doit contenir les champs firstName, lastName, address, city et email. Le tableau des produits envoyé au         back-end doit être un array de strings product-ID. Les types de ces champs et leur présence doivent être validés avant l’envoi des données au serveur.
+Pour les routes POST, l’objet contact envoyé au serveur doit contenir les champs firstName, lastName, address, city et email. Le tableau des produits envoyé au         back-end doit être un array de strings product-ID. Les types de ces champs et leur présence doivent être validés avant l’envoi des données au serveur.
 
