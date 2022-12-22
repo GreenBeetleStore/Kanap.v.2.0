@@ -23,6 +23,8 @@
 
 https://openclassrooms.com/fr/paths/556/projects/675/assignment
 
+
+
 <h2> Étapes clés – Projet 5 du parcours Développeur web </h2>
 https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf
 
